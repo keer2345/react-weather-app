@@ -1,0 +1,30 @@
+body {
+  background-color: #5edcfb;
+}
+
+.search {
+  margin: 20px auto;
+  width: 300px;
+  border-radius: 4px;
+  background-color: ghostwhite;
+}
+
+.temperature {
+  margin-top: 100px;
+  text-align: center;
+  font-size: xxx-large;
+}
+
+hr {
+  width: 30px;
+}
+
+.description {
+  text-align: center;
+  font-size: x-large;
+}
+
+img {
+  margin: auto;
+  display: block;
+}
